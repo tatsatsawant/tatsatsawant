@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/tatsatsawant/tatsatsawant/assets/154037217/62b8d4f9-9469-4e0a-8109-0c7d0da11d4e" alt="Banner"/>
+
 ## About
 Hello, I'm Tatsat Sawant, a dedicated and passionate software developer with a keen interest in Java, Spring Framework, Spring Boot for backend development, and HTML, CSS and React.Js for frontend development. I am constantly exploring and learning new technologies to enhance my skills and contribute to exciting projects.
 
