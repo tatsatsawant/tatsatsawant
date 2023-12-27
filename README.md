@@ -22,8 +22,8 @@ Hello, I'm Tatsat Sawant, a dedicated and passionate software developer with a k
 
 ## Connect with Me
 
-- GitHub: [https://github.com/tatsatsawant](https://github.com/tatsatsawant)
-- LinkedIn: [linkedin.com/in/tatsatsawant](www.linkedin.com/in/tatsatsawant)
+<a href="https://linkedin.com/in/tatsatsawant" target="blank"><img align="center" src="https://github.com/tatsatsawant/tatsatsawant/assets/154037217/5b83ac95-63fb-4782-b6ae-48556b8d54f8" alt="linkedin"/></a>
+<a href="https://github.com/tatsatsawant" target="blank"><img align="center" src="https://github.com/tatsatsawant/tatsatsawant/assets/154037217/404620d9-304a-471a-b935-f8b615d35966" alt="github"/></a>
 
 ---
 
