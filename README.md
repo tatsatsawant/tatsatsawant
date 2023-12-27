@@ -2,7 +2,7 @@
 <h1 align="center">Tatsat Sawant</h1>
 
 ## About
-Hello, I'm Tatsat Sawant, a dedicated and passionate software developer with a keen interest in Java, Spring Framework, Spring Boot for backend development, and JavaScript along with React for frontend development. I am constantly exploring and learning new technologies to enhance my skills and contribute to exciting projects.
+Hello, I'm Tatsat Sawant, a dedicated and passionate software developer with a keen interest in Java, Spring Framework, Spring Boot for backend development, and HTML, CSS and React.Js for frontend development. I am constantly exploring and learning new technologies to enhance my skills and contribute to exciting projects.
 
 ## Skills
 ![icons8-spring-boot-48](https://github.com/tatsatsawant/tatsatsawant/assets/154037217/d2dd0259-1654-4a57-b138-e944a97c322e)
